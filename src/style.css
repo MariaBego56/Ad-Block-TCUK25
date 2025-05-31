@@ -13,12 +13,14 @@ h2{
   font-size: 2rem;
   margin:0 auto;
   padding: 20px;
+  text-align: center;
 
 }
 
 h3{
 margin-top: 0;
   color: #333;
+  text-align: center;
 }
 div{
   background-color: #f9f9f9;
