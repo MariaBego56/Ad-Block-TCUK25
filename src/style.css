@@ -22,25 +22,28 @@ margin-top: 0;
   color: #333;
   text-align: center;
 }
-div{
-  background-color: #f9f9f9;
-  padding: 2rem;
-  border-radius: 12px;
-  font-family:Arial, Helvetica, sans-serif;
-  max-width: 800px;
-  margin: auto;
-}
+#venue-hotel {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 10px;
+  background-color: #5cf24c;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold; }
 
 ul{
 
   padding-left: 1.2rem;
-  color: whitesmoke;
+  color: black;
+  text-align: center;
 }
 
 p{
-  font-weight: bold;
-  color: whitesmoke;
+  font-size: large;
+  color: black;
   margin-top: 1rem;
+  text-align: center;
 }
 
 #tcuk-istc{
@@ -53,15 +56,4 @@ p{
   border-radius: 6px;
   font-weight: bold;
 
-}
-#venue-hotel{
-
-display: inline-block;
-margin-top: 1rem;
-padding: 10px;
-background-color: #5cf24c;
-color: #fff;
-text-decoration: none;
-border-radius: 6px;
-font-weight: bold;
 }
